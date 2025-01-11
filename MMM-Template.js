@@ -8,7 +8,7 @@ Module.register("MMM-Project1", {
    * Apply the default styles.
    */
   getStyles() {
-    return ["template.css"]
+    return ["Project1.css"]
   },
 
   /**
